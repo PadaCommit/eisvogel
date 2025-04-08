@@ -1,6 +1,6 @@
 ---
 title: "Example PDF"
-author: [Author]
+author: [Pada]
 date: "2017-02-20"
 subject: "Markdown"
 keywords: [Markdown, Example]
